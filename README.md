@@ -1,2 +1,2 @@
 # ccomerce
- Cher of Comerce .  Sistema de Gestao e controle de Stock voltado  para Restairantes, Bares, Lanchonetes , Botle Stores, Lojas de Roupa e Farmacias 
+ Chef of Comerce(ccomerce). Sistema de Gestão e controle de estoque voltado para Restaurantes, Bares, Lanchonetes, Bottle Store, Lojas de Roupa e Farmácia
